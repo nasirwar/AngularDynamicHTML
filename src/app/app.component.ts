@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'dynamin-html';
+  myURL = 'https://my-json-server.typicode.com/typicode/demo/posts';
 }
